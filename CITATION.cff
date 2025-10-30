@@ -12,9 +12,9 @@ authors:
     affiliation: TecNM-ITT
 repository-code: 'https://github.com/Anadali-Sifuentes/Practica3MSF'
 keywords:
-  - Circuito RLC
+  - Circuito RC
   - Controlador PI
-  - Sistema cardiovascular
+  - Sistema musculoesquelético
   - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
